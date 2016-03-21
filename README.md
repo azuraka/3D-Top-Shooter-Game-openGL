@@ -1,4 +1,4 @@
 # 3D-Top-Shooter-Game-openGL
 Install gcc, openGL, glu, glut.... <br />
-Ready to run the executable :) <br />
+Ready to run the executable (./terrain) :) <br />
 Just double click on it and enjoy 3D Top Shooter Game.
